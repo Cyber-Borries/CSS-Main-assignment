@@ -72,8 +72,8 @@ body {
   /* align-items: center; */
   flex-basis: 50%;
   padding-top: 50px;
-  padding-left: 250px;
-  padding-right: 250px;
+  padding-left: 180px;
+  padding-right: 180px;
 }
 
 .hero h1 {
@@ -116,8 +116,8 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding-left: 250px;
-  padding-right: 250px;
+  padding-left: 180px;
+  padding-right: 180px;
   padding-top: 15px;
   font-size: 18px;
 }
@@ -221,8 +221,8 @@ body {
 
 .btn-container button {
   background-color: var(--light-blue-bg);
-  color: var(--hero-secondary-color);
-  border: 1px var(--hero-secondary-color) solid;
+  color: white;
+  border: 2px white solid;
   border-radius: 8px;
   padding: 10px;
 }
